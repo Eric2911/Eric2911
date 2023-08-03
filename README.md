@@ -1,6 +1,4 @@
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
 
-   </div>
+ ![Eric2911's Stats](https://github-readme-stats.vercel.app/api?username=Eric2911&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+ ![Eric2911's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eric2911&theme=vue-dark&hide_border=true)
+ ![Eric2911's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric2911&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
